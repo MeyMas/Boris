@@ -1,0 +1,35 @@
+.outer {
+  width: 302px;
+  height: 570px;
+  border: 1px solid grey;
+  padding: 0.7em;
+  margin: 1em;
+  box-shadow: 5px 10px grey;
+}
+
+.inner {
+  width: 280px;
+  height: 270px;
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+p {
+  font-style: italic;
+  font-family: sans-serif;
+  font-size: 10pt;
+}
+
+li {
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+.courtesy {
+  font-size: 7pt;
+  width: 400px;
+  margin: 1em;
+}
